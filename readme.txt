@@ -1,3 +1,6 @@
+The project aimed to achieve text classification using deep learning methodologies and 
+continuously improve classification performance through the optimization of network architecture and training processes. 
+
 The goal of this project is to develop a Feedforward neural network for topic classification.
 For that purpose, the process is:
 • Text processing methods for transforming raw text data into input vectors for Ir network
